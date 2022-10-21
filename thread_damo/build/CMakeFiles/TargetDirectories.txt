@@ -1,0 +1,8 @@
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/CMakeFiles/rebuild_cache.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/CMakeFiles/edit_cache.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/src/CMakeFiles/rebuild_cache.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/src/CMakeFiles/dh_rtmp.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/src/CMakeFiles/edit_cache.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/main/CMakeFiles/rebuild_cache.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/main/CMakeFiles/tcp.dir
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/build/main/CMakeFiles/edit_cache.dir

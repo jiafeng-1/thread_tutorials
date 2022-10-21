@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/thread.h
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+sys/syscall.h
+-
+
+/home/jiafeng/jiafeng/Linux/thread/thread_cpu/main/main.c
+thread.h
+/home/jiafeng/jiafeng/Linux/thread/thread_cpu/main/thread.h
+

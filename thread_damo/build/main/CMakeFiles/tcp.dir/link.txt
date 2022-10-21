@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/tcp.dir/main.c.o  -o tcp ../src/libdh_rtmp.a -lpthread 

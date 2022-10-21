@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/thread.h
+stdio.h
+-
+math.h
+-
+pthread.h
+-
+stdlib.h
+-
+string.h
+-
+sys/time.h
+-
+unistd.h
+-
+
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/src/thread.c
+thread.h
+/home/jiafeng/jiafeng/Linux/thread/thread_damo/src/thread.h
+
