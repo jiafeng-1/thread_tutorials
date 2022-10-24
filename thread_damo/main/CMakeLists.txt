@@ -9,6 +9,6 @@ aux_source_directory(. DIR_MAIN)
 # 生成可执行文件
 add_executable(tcp ${DIR_MAIN})
 # 链接
-target_link_libraries(tcp dh_rtmp)
+target_link_libraries(thread_damo JF_thread)
 # gcc .\main.c -L..\lib\ -lgeneral -lwsock32 -lmq_ -lpaho-mqtt3c -I..\include\ -o main.exe
 

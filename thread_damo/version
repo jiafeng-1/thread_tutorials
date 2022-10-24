@@ -1,3 +1,11 @@
+/*
+ * @Descripttion: 
+ * @Author: Jia Feng
+ * @version: 
+ * @Date: 2022-10-17 20:11:31
+ * @LastEditors: Jia Feng
+ * @LastEditTime: 2022-10-23 19:42:02
+ */
 Alpha -- 内部测试版　Beta -- 公开测试版  Release -- 发行版
 
 主版本号 . 子版本号 [. 修正版本号[ build- 编译版本号 ]]
@@ -13,7 +21,7 @@ Alpha -- 内部测试版　Beta -- 公开测试版  Release -- 发行版
 
     Data: Mon Oct 17 20:11:31 PDT 2022
     
-    Describe: 内部测试版本。
+    Describe: thread_damo工程及thread_cpu工程，增加了ignore文件
 
 /*************************************************************************************/
     

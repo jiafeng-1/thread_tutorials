@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdh_rtmp.a  CMakeFiles/dh_rtmp.dir/thread.c.o
-/usr/bin/ranlib libdh_rtmp.a

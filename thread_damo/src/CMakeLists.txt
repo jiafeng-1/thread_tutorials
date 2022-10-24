@@ -8,11 +8,11 @@ message("my src source: " ${DIR_SRCS})
 
 
 # 生成静态库
-add_library(dh_rtmp STATIC ${DIR_SRCS})
+add_library(JF_thread STATIC ${DIR_SRCS})
 # 链接库
 # target_link_libraries(dh_rtmp ${OpenCV_LIBS})
 # target_link_libraries(dh_rtmp gxiapi)
-target_link_libraries(dh_rtmp pthread)
+target_link_libraries(JF_thread pthread)
 # target_link_libraries(dh_rtmp swscale)
 # target_link_libraries(dh_rtmp avcodec)
 # target_link_libraries(dh_rtmp avformat)

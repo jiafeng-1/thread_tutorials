@@ -9,6 +9,6 @@ aux_source_directory(. DIR_MAIN)
 
 add_executable(thread_bind_cpu ${DIR_MAIN})
 # 链接
-target_link_libraries(thread_bind_cpu dh_rtmp)
+target_link_libraries(thread_bind_cpu JF_thread)
 # gcc .\main.c -L..\lib\ -lgeneral -lwsock32 -lmq_ -lpaho-mqtt3c -I..\include\ -o main.exe
 
